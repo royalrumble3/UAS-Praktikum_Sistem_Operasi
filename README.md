@@ -16,4 +16,4 @@ Fitur :
 | -> Menghitung teks | Perhitungan jumlah kata, karakter, dan baris dalam teks yang dinputkan. |
 
 ### SCREENSHOT PROGRAM
-![Aplikasi Gue](https://github.com/numbernine-09/UAS-PraktikumSistemOperasi/blob/main/Screenshot%202023-07-23%20233754.png)
+![Aplikasi Gue](https://github.com/royalrumble3/UAS-Praktikum_Sistem_Operasi/blob/main/Screenshot%202023-07-23%20213540.png)
