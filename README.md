@@ -2,8 +2,8 @@
 
 |  |  |
 |--|--|
-| NIM | **21104410068** |
-| Nama Lengkap | **Rangga Krisna Putra** |
+| NIM | **21104410083** |
+| Nama Lengkap | **Niko Riant Cahyono** |
 | Kelas | TI-4B |
 | Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/mrhmt80) |
 
