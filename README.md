@@ -12,8 +12,8 @@ Fitur :
 |  |  |
 |--|--|
 | **Fitur** | **Detail** |
-| -> Konversi Suhu | Pengkonversian suhu dengan satuan suhu Celcius, Kelvin dan Fahrenheit |
-| -> Menghitung teks | Perhitungan jumlah kata, karakter, dan baris dalam teks yang dinputkan. |
+| -> Decision Maker | Pembuat keputusan dari beberapa keputusan yang amu buat |
+| -> Menghitung mundur(s) | menghitung mundur waktu dalam satuan detik |
 
 ### SCREENSHOT PROGRAM
 ![Aplikasi Gue](https://github.com/royalrumble3/UAS-Praktikum_Sistem_Operasi/blob/main/Screenshot%202023-07-23%20213540.png)
